@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joshua Edo</h1>
 <h3 align="center">A frontend developer from Nigeria, West Africa.</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js** and brushing up on my **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://joshuaedo-cv2.netlify.app/](https://joshuaedo-cv2.netlify.app/)
-
-- 📫 How to reach me **joshuaedo01@gmail.com**
-
-- ⚡ Fun fact *I love playing FIFA*
+- 📫 You can reach me at **joshuaedo01@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
