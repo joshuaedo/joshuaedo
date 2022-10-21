@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joshua Edo</h1>
 <h3 align="center">A frontend developer from Nigeria, West Africa.</h3>
 
-- 🌱 I’m currently learning **React.js** and brushing up on my **Javascript**
+- 🌱 I’m currently learning **React.js** and brushing up on my **Typescript**
 
 - 📫 You can reach me at **joshuaedo01@gmail.com**
 
